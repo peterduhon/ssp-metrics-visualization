@@ -15,6 +15,10 @@ This repository contains a Python script for visualizing Supply-Side Platform (S
 - `ssp_performance_visualization.py`: Python script that generates the SSP performance metrics chart.
 - `images/SSP_Metrics_Bar_Chart.png`: Screenshot of the bar chart produced by the script.
 
+## Screenshot
+
+![SSP Metrics Bar Chart](images/SSP_Metrics_Bar_Chart.png)
+
 ## Requirements
 
 - Python 3.x
